@@ -1,0 +1,11 @@
+{
+  "name": "r-ticket",
+  "version": "1.0.0",
+  "author": "Andrei Chayeuski",
+  "description": "package for cwp-22",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreichayeuski/cwp-22.git"
+  },
+  "main": "index.js"
+}
